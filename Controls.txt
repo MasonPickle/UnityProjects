@@ -1,0 +1,8 @@
+LinkGame
+Click and drag to move chain
+Keys displayed on links control sections
+
+TimeSwitch
+WASD to move
+Space to jump
+1,2,3 to change to past, present, future
