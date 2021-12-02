@@ -1,3 +1,9 @@
+GameSelectingApp
+Press "Add New Game"
+Enter a .exe, .jar, or .bat file path with the extension
+Add a .png, .jpg, or .jpeg file path with the extension for the display image
+Give the app a name then either click on the icon with the mouse or scroll to the icon and select with A(for xbox controller) or X(for playstation) to run the app
+
 LinkGame
 Click and drag to move chain
 Keys displayed on links control sections
